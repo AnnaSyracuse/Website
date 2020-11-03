@@ -1,0 +1,16 @@
+{
+  "name": "mockwebsite",
+  "version": "1.0.0",
+  "description": "A mock website for CapStone project 2020/2021",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "author": "AK Syracuse",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "@babel/core": "7.2.0"
+  }
+}
